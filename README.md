@@ -107,8 +107,6 @@ The "Sourceduty OS" project aims to redefine user experience with unique and int
 #
 ### Related Links
 
-[Notepad](https://github.com/sourceduty/Notepad)
-<br>
 [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
 <br>
 [System Structure](https://github.com/sourceduty/System_Structure)
@@ -138,6 +136,8 @@ The "Sourceduty OS" project aims to redefine user experience with unique and int
 [OS Developer](https://github.com/sourceduty/OS_Developer)
 <br>
 [Insutry Notepad](https://github.com/sourceduty/Industry_Notepad)
+<br>
+[Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
 
 #
 
