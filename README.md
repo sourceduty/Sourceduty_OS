@@ -101,6 +101,10 @@ Sourceduty OS is an innovative Linux-based operating system tailored for users s
 The "Sourceduty OS" project aims to redefine user experience with unique and intuitive features. By following this development plan, we anticipate delivering a Linux-based OS that not only meets but exceeds user expectations in terms of functionality and ease of use.
 
 #
+
+> Alex: "*This is very possible and could be real in the future.*"
+
+#
 ### Related Links
 
 [Notepad](https://github.com/sourceduty/Notepad)
