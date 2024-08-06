@@ -136,6 +136,8 @@ The "Sourceduty OS" project aims to redefine user experience with unique and int
 [Keybind Instructions](https://github.com/sourceduty/Keybind_Instructions)
 <br>
 [OS Developer](https://github.com/sourceduty/OS_Developer)
+<br>
+[Insutry Notepad](https://github.com/sourceduty/Industry_Notepad)
 
 #
 
