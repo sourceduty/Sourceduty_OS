@@ -122,6 +122,10 @@ The "Sourceduty OS" project aims to redefine user experience with unique and int
 [Huge Cursor](https://github.com/sourceduty/Huge_Cursor)
 <br>
 [Send to New Folder](https://github.com/sourceduty/Send_to_New_Folder)
+<br>
+[Battery Level Cursor](https://github.com/sourceduty/Battery_Level_Cursor)
+<br>
+[Sequenced File Folders](https://github.com/sourceduty/Sequenced_File_Folders)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
