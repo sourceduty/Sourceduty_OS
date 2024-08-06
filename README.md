@@ -130,6 +130,8 @@ The "Sourceduty OS" project aims to redefine user experience with unique and int
 [Trash Capacity](https://github.com/sourceduty/Trash_Capacity)
 <br>
 [Keybind Instructions](https://github.com/sourceduty/Keybind_Instructions)
+<br>
+[OS Developer](https://github.com/sourceduty/OS_Developer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
