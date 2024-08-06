@@ -1,8 +1,8 @@
-## Sourceduty OS
-
 ![Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS/assets/123030236/62ca7e89-09fc-4713-987e-14a0c49ef2a8)
 
-***
+> Conceptual development plan for a custom operating system.
+
+#
 
 Sourceduty OS is an innovative Linux-based operating system tailored for users seeking enhanced functionality and unique features for a more intuitive and personalized experience. This development plan outlines the steps to implement its distinctive features, ensuring a robust and user-friendly OS.
 
