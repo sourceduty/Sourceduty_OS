@@ -118,6 +118,10 @@ The "Sourceduty OS" project aims to redefine user experience with unique and int
 [Right Click Converter](https://github.com/sourceduty/Right-Click_Converter)
 <br>
 [Smart Folder](https://github.com/sourceduty/Smart_Folder)
+<br>
+[Huge Cursor](https://github.com/sourceduty/Huge_Cursor)
+<br>
+[Send to New Folder](https://github.com/sourceduty/Send_to_New_Folder)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
