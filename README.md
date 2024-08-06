@@ -110,6 +110,14 @@ The "Sourceduty OS" project aims to redefine user experience with unique and int
 [System Structure](https://github.com/sourceduty/System_Structure)
 <br>
 [World Systems](https://github.com/sourceduty/World_Systems)
+<br>
+[Mouse Pointer Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
+<br>
+[Mouse History Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
+<br>
+[Right Click Converter](https://github.com/sourceduty/Right-Click_Converter)
+<br>
+[Smart Folder](https://github.com/sourceduty/Smart_Folder)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
