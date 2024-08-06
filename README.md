@@ -126,6 +126,8 @@ The "Sourceduty OS" project aims to redefine user experience with unique and int
 [Battery Level Cursor](https://github.com/sourceduty/Battery_Level_Cursor)
 <br>
 [Sequenced File Folders](https://github.com/sourceduty/Sequenced_File_Folders)
+<br>
+[Trash Capacity](https://github.com/sourceduty/Trash_Capacity)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
