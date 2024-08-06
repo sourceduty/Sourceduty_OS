@@ -133,5 +133,9 @@ The "Sourceduty OS" project aims to redefine user experience with unique and int
 <br>
 [OS Developer](https://github.com/sourceduty/OS_Developer)
 
+#
+
+![SpongeBob](https://github.com/user-attachments/assets/48231f2d-4978-49bc-baa0-58725c87f34a)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
