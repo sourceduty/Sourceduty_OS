@@ -102,6 +102,10 @@ The "Sourceduty OS" project aims to redefine user experience with unique and int
 
 #
 
+![Sourceduty](https://github.com/user-attachments/assets/b2a7971c-7b38-45d3-a9b1-8a5efe4b1c8f)
+
+#
+
 > Alex: "*This is very possible and could be real in the future.*"
 
 #
@@ -140,10 +144,6 @@ The "Sourceduty OS" project aims to redefine user experience with unique and int
 [Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
 <br>
 [Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
-
-#
-
-![SpongeBob](https://github.com/user-attachments/assets/48231f2d-4978-49bc-baa0-58725c87f34a)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
