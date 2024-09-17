@@ -101,6 +101,13 @@ Sourceduty OS is an innovative Linux-based operating system tailored for users s
 The "Sourceduty OS" project aims to redefine user experience with unique and intuitive features. By following this development plan, we anticipate delivering a Linux-based OS that not only meets but exceeds user expectations in terms of functionality and ease of use.
 
 #
+### Shortbar
+
+![Shortbar Program](https://github.com/user-attachments/assets/287b6d6a-294c-4cc8-90b9-005e411fc023)
+
+The Sourceduty Shortbar is an innovative approach to taskbar design, aimed at simplifying the user experience in both Microsoft Windows and the custom-built Sourceduty OS. The concept revolves around five simple, color-coded buttons that categorize essential functions into organized sections. Each button represents a category such as settings, apps, files, notifications, and tools, making it easier for users to access these functions quickly and efficiently. This design breaks away from the traditional cluttered taskbar interface, offering a minimalist and streamlined experience.
+
+#
 
 ![Sourceduty](https://github.com/user-attachments/assets/b2a7971c-7b38-45d3-a9b1-8a5efe4b1c8f)
 
