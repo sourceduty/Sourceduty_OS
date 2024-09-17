@@ -146,7 +146,7 @@ The Sourceduty Shortbar is an innovative approach to taskbar design, aimed at si
 <br>
 [OS Developer](https://github.com/sourceduty/OS_Developer)
 <br>
-[Insutry Notepad](https://github.com/sourceduty/Industry_Notepad)
+[Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
 <br>
 [Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
 <br>
