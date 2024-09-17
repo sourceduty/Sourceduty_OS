@@ -144,6 +144,8 @@ The "Sourceduty OS" project aims to redefine user experience with unique and int
 [Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
 <br>
 [Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
+<br>
+[Shortbar](https://github.com/sourceduty/Shortbar)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
