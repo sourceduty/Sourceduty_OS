@@ -116,6 +116,9 @@ The Sourceduty Shortbar is an innovative approach to taskbar design, aimed at si
 > Alex: "*This is very possible and could be real in the future.*"
 
 > "*I would develop this myself if it was less time consuming.*"
+
+> "*If I can afford the cost to hire additional developers in the future then this might be completed.*"
+
 #
 ### Related Links
 
