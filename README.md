@@ -157,6 +157,12 @@ The Sourceduty Shortbar is an innovative approach to taskbar design, aimed at si
 [Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
 <br>
 [Shortbar](https://github.com/sourceduty/Shortbar)
+<br>
+[OS Automation](https://github.com/sourceduty/OS_Automation)
+<br>
+[Smart Folder](https://github.com/sourceduty/Smart_Folder)
+<br>
+[File Automation](https://github.com/sourceduty/File_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
