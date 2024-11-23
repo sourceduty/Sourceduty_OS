@@ -1,6 +1,6 @@
 ![Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS/assets/123030236/62ca7e89-09fc-4713-987e-14a0c49ef2a8)
 
-> Conceptual development plan for a custom operating system.
+> Conceptual development plan for a custom operating system. Quantive OS by Sourceduty.
 
 #
 
