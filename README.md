@@ -1,4 +1,4 @@
-![Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS/assets/123030236/62ca7e89-09fc-4713-987e-14a0c49ef2a8)
+![Quantive_OS](https://github.com/user-attachments/assets/73510437-ce3b-42dd-974d-21165deb9739)
 
 > Conceptual development plan for a custom operating system. Quantive OS by Sourceduty.
 
@@ -159,6 +159,8 @@ On the other hand, "Force Duty" and "Sauce Duty" offer contrasting energies that
 
 #
 ### Superduty OS
+
+![Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS/assets/123030236/62ca7e89-09fc-4713-987e-14a0c49ef2a8)
 
 Superduty as a name for the OS aligns powerfully with the branding of Ford’s Super Duty line, evoking a shared sense of strength, reliability, and high performance. Just as Ford Super Duty trucks are known for handling heavy-duty tasks with ease and durability, this OS could position itself as the powerhouse of operating systems, designed for demanding workloads and efficiency. The association with Ford’s established reputation for toughness and excellence could enhance user confidence, appealing to professionals and tech enthusiasts who value systems built to perform under pressure. By leveraging the strong branding and recognition of Ford Super Duty, the OS can carve out a distinct identity that highlights both its advanced capabilities and its unwavering focus on productivity and practicality.
 
