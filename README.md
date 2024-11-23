@@ -110,6 +110,8 @@ The Sourceduty Shortbar is an innovative approach to taskbar design, aimed at si
 #
 ### Brand Name
 
+![Sourceduty Alien Meme](https://github.com/user-attachments/assets/444ca893-791f-4590-92af-407ec3c82653)
+
 ```
 Here are some ideas for renaming "Sourceduty OS" to make it more distinctive and appealing:
 
