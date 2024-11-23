@@ -141,9 +141,12 @@ Sourcebit OS
 Superduty OS
 Wowzer OS
 OS Killer-B
+OS Killer-B2
 Cyberduty OS
 2day OS
 Hackable OS
+Hackable 2 OS
+Hackable 3 OS
 ```
 
 Sourceduty pairs well with several creative name variations, each bringing a unique vibe to the brand. "Sourceday" is light and optimistic, suggesting a focus on daily achievements and progress, which makes it approachable for a broad audience. Similarly, "Sourcenerd" strikes a balance between relatability and tech-savvy appeal, resonating particularly with developer and geek communities. Its streamlined nature makes it memorable and versatile. "Source Nerdy," while similar, leans slightly more playful, making it a good fit for casual, tech-centric branding.
