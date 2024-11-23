@@ -98,7 +98,7 @@ Quantive OS is an innovative Linux-based operating system tailored for users see
 
 ### Conclusion
 
-The "Sourceduty OS" project aims to redefine user experience with unique and intuitive features. By following this development plan, we anticipate delivering a Linux-based OS that not only meets but exceeds user expectations in terms of functionality and ease of use.
+The "Quantive OS" project aims to redefine user experience with unique and intuitive features. By following this development plan, we anticipate delivering a Linux-based OS that not only meets but exceeds user expectations in terms of functionality and ease of use.
 
 #
 ### Shortbar
