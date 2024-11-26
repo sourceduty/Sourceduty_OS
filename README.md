@@ -234,6 +234,8 @@ The humor emerges as the human brain, primed to identify familiar patterns, latc
 [Smart Folder](https://github.com/sourceduty/Smart_Folder)
 <br>
 [File Automation](https://github.com/sourceduty/File_Automation)
+<br>
+[Windows Attached](https://github.com/sourceduty/Windows_Attached)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
