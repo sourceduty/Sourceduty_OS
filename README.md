@@ -11,6 +11,8 @@ Quantive OS is an innovative Linux-based operating system tailored for users see
 
 This development plan outlines the features to implement, ensuring a robust and user-friendly OS.
 
+#
+
 ### Right-Click Format
 - Purpose: Integrate a "Convert to..." option in the file context menu to simplify file conversions.
 - Implementation: Develop a backend to support various formats and ensure seamless integration with the desktop environment.
