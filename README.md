@@ -166,6 +166,8 @@ The word Quantive, a shortened form of the correctly spelled Quantitative, can i
 
 The humor emerges as the human brain, primed to identify familiar patterns, latches onto the sequence "tit" embedded within the sound of Quantive. The removal of letters from Quantitative, such as the additional "a" and second "t," reduces distractions, allowing the "tive" portion to stand out more prominently. This creates a playful and unintended highlight on the middle segment, which some might perceive as humorous due to its resemblance to "tit," a familiar and cheeky word. In this way, the phonetic emphasis shifts subtly between the long-form Quantitative and the streamlined Quantive, making the latter more likely to evoke this association.
 
+If Linux was funded traditionally, the cost of developing this OS from 1991 to 1995 might have been around $3.5 million. This is a very rough estimate and doesn't take into account the exponential growth in contributions or the varying levels of expertise and time commitment of the developers.
+
 #
 
 ![Sourceduty](https://github.com/user-attachments/assets/b2a7971c-7b38-45d3-a9b1-8a5efe4b1c8f)
