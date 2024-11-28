@@ -16,6 +16,8 @@ Right-Click Format
   2. Implement a file conversion backend supporting multiple formats.
   3. Ensure seamless integration with the desktop environment for user accessibility.
 
+#
+
 Cursor Taskbar
 
 **Objective**: Implement a hidden taskbar menu that appears around the cursor when activated, providing quick access to frequently used apps and settings.
@@ -23,6 +25,8 @@ Cursor Taskbar
   1. Design the UI for the cursor-attached taskbar with customizable slots for apps and settings.
   2. Develop the activation mechanism (e.g., specific mouse gesture or keyboard shortcut).
   3. Integrate with the OS's window management system for responsive interaction.
+
+#
 
 Trash Icon Capacity
 
@@ -32,6 +36,8 @@ Trash Icon Capacity
   2. Implement a background service to monitor trash size and update the icon accordingly.
   3. Ensure compatibility with different desktop environments.
 
+#
+
 OS Deviance
 
 **Objective**: Measure and report changes made by users to the default OS settings, aiding in troubleshooting and customization.
@@ -39,6 +45,8 @@ OS Deviance
   1. Develop a tracking system for default settings and user modifications.
   2. Create a reporting tool within the settings menu to display changes.
   3. Implement privacy controls to ensure user consent and data protection.
+
+#
 
 Regulated Files
 
@@ -48,6 +56,8 @@ Regulated Files
   2. Integrate the engine with the File Manager and desktop environment.
   3. Provide a user interface for customizing file management policies.
 
+#
+
 Sequenced File Folders
 
 **Objective**: Automatically create a new folder when a new folder is named, streamlining the folder creation process.
@@ -56,6 +66,8 @@ Sequenced File Folders
   2. Implement a naming convention system for automatically named folders.
   3. Ensure user control and customization options for the feature.
 
+#
+
 Battery Level Cursor
 
 **Objective**: Indicate the battery level of an optical mouse within the mouse cursor, enhancing user convenience.
@@ -63,6 +75,8 @@ Battery Level Cursor
   1. Develop a system to read the battery level from compatible wireless mice.
   2. Design cursor themes that dynamically reflect the battery level.
   3. Integrate this feature with the OS's input device management system.
+
+#
 
 Testing and Quality Assurance
 
