@@ -8,84 +8,47 @@ Quantive OS is an innovative Linux-based operating system tailored for users see
 
 #
 
-Right-Click Format
+Here’s a condensed development plan incorporating additional functionalities:
 
-**Objective**: Integrate a file converter option in the right-click context menu to allow users to easily convert files to different formats.
-**Tasks**:
-  1. Develop a plugin or extension for the file manager to add a "Convert to..." option in the context menu.
-  2. Implement a file conversion backend supporting multiple formats.
-  3. Ensure seamless integration with the desktop environment for user accessibility.
+- **Right-Click Format**: Integrate a "Convert to..." option in the file context menu to simplify file conversions. Implement a backend to support various formats and ensure seamless integration with the desktop environment.
+  - [Right Click Converter](https://github.com/sourceduty/Right-Click_Converter)
+  
+- **Cursor Taskbar**: Develop a hidden taskbar that appears around the cursor for quick access to apps and settings, customizable and responsive.
+  - [Mouse Pointer Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
+  - [Shortbar](https://github.com/sourceduty/Shortbar)
 
-#
+- **Trash Icon Capacity**: Modify the trash icon to reflect its current fill level dynamically, with a backend service monitoring and updating the icon.
+  - [Trash Capacity](https://github.com/sourceduty/Trash_Capacity)
 
-Cursor Taskbar
+- **OS Deviance**: Track and report user modifications to the default settings for easier troubleshooting and customization, including privacy measures.
+  - [OS Developer](https://github.com/sourceduty/OS_Developer)
+  - [Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
 
-**Objective**: Implement a hidden taskbar menu that appears around the cursor when activated, providing quick access to frequently used apps and settings.
-**Tasks**:
-  1. Design the UI for the cursor-attached taskbar with customizable slots for apps and settings.
-  2. Develop the activation mechanism (e.g., specific mouse gesture or keyboard shortcut).
-  3. Integrate with the OS's window management system for responsive interaction.
+- **Regulated Files**: Enforce file management rules within the File Manager and desktop environment, supported by a policy engine and customizable UI.
+  - [File Automation](https://github.com/sourceduty/File_Automation)
 
-#
+- **Sequenced File Folders**: Automate new folder creation following a naming convention, allowing user control and customization.
+  - [Sequenced File Folders](https://github.com/sourceduty/Sequenced_File_Folders)
+  - [Send to New Folder](https://github.com/sourceduty/Send_to_New_Folder)
 
-Trash Icon Capacity
+- **Battery Level Cursor**: Show the battery level of wireless mice in the cursor theme, requiring system support for reading battery levels.
+  - [Battery Level Cursor](https://github.com/sourceduty/Battery_Level_Cursor)
 
-**Objective**: Display the trash bin's capacity and current usage visually through the icon, enhancing user awareness of storage consumption.
-**Tasks**:
-  1. Modify the trash icon to dynamically change based on its fill level.
-  2. Implement a background service to monitor trash size and update the icon accordingly.
-  3. Ensure compatibility with different desktop environments.
+Additional suggested features from the provided links:
+- **Smart Folder**: Automatically organize files based on user-defined rules or patterns.
+  - [Smart Folder](https://github.com/sourceduty/Smart_Folder)
 
-#
+- **Mouse History Visualizer**: Implement a tool to track and display mouse movement history for enhanced user analysis.
+  - [Mouse History Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
 
-OS Deviance
+- **Keybind Instructions**: Integrate a tool for customizing and displaying keyboard shortcuts within the OS.
+  - [Keybind Instructions](https://github.com/sourceduty/Keybind_Instructions)
 
-**Objective**: Measure and report changes made by users to the default OS settings, aiding in troubleshooting and customization.
-**Tasks**:
-  1. Develop a tracking system for default settings and user modifications.
-  2. Create a reporting tool within the settings menu to display changes.
-  3. Implement privacy controls to ensure user consent and data protection.
+- **OS Automation**: Develop advanced automation capabilities for routine tasks, improving efficiency.
+  - [OS Automation](https://github.com/sourceduty/OS_Automation)
 
-#
+These enhancements aim to make Quantive OS more robust, user-friendly, and customizable, catering to advanced user needs.
 
-Regulated Files
-
-**Objective**: Enforce regulation of files within and outside the File Manager, ensuring organized and secure file management.
-**Tasks**:
-  1. Develop a file management policy engine for setting and enforcing rules.
-  2. Integrate the engine with the File Manager and desktop environment.
-  3. Provide a user interface for customizing file management policies.
-
-#
-
-Sequenced File Folders
-
-**Objective**: Automatically create a new folder when a new folder is named, streamlining the folder creation process.
-**Tasks**:
-  1. Modify the File Manager's folder creation workflow to include sequential folder creation.
-  2. Implement a naming convention system for automatically named folders.
-  3. Ensure user control and customization options for the feature.
-
-#
-
-Battery Level Cursor
-
-**Objective**: Indicate the battery level of an optical mouse within the mouse cursor, enhancing user convenience.
-**Tasks**:
-  1. Develop a system to read the battery level from compatible wireless mice.
-  2. Design cursor themes that dynamically reflect the battery level.
-  3. Integrate this feature with the OS's input device management system.
-
-#
-
-Testing and Quality Assurance
-
-- Unit testing will be conducted for individual components to ensure reliability and functionality.
-- Integration testing will follow to ensure seamless interaction between the new features and the existing OS components.
-- User acceptance testing (UAT) will be organized with a focus group to gather feedback and make necessary adjustments.
-
-
-The "Quantive OS" project aims to redefine user experience with unique and intuitive features. By following this development plan, we anticipate delivering a Linux-based OS that not only meets but exceeds user expectations in terms of functionality and ease of use.
 
 #
 ### Shortbar
