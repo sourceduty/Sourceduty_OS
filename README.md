@@ -180,6 +180,8 @@ The humor emerges as the human brain, primed to identify familiar patterns, latc
 
 > "*If I can afford the cost to hire additional developers in the future then this might be completed.*"
 
+> "*I would consider this with a financial surplus of $10-20M.*"
+
 #
 ### Related Links
 
