@@ -7,45 +7,63 @@
 Quantive OS is an innovative Linux-based operating system tailored for users seeking enhanced functionality and unique features for a more intuitive and personalized experience. This development plan outlines the steps to implement its distinctive features, ensuring a robust and user-friendly OS.
 
 #
+### Functionalities
 
-Here’s a condensed development plan incorporating additional functionalities:
+Right-Click Format
+- Purpose: Integrate a "Convert to..." option in the file context menu to simplify file conversions.
+- Implementation: Develop a backend to support various formats and ensure seamless integration with the desktop environment.
+- Reference: Right Click Converter: https://github.com/sourceduty/Right-Click_Converter
 
-- Right-Click Format: Integrate a "Convert to..." option in the file context menu to simplify file conversions. Implement a backend to support various formats and ensure seamless integration with the desktop environment.
-  - Right Click Converter: https://github.com/sourceduty/Right-Click_Converter
-  
-- Cursor Taskbar: Develop a hidden taskbar that appears around the cursor for quick access to apps and settings, customizable and responsive.
+Cursor Taskbar
+- Purpose: Develop a hidden taskbar that appears around the cursor for quick access to apps and settings, customizable and responsive.
+- References:
   - Mouse Pointer Circle: https://github.com/sourceduty/Mouse_Pointer_Circle
   - Shortbar: https://github.com/sourceduty/Shortbar
 
-- Trash Icon Capacity: Modify the trash icon to reflect its current fill level dynamically, with a backend service monitoring and updating the icon.
-  - Trash Capacity: https://github.com/sourceduty/Trash_Capacity
+Trash Icon Capacity
+- Purpose: Modify the trash icon to reflect its current fill level dynamically.
+- Implementation: Implement a backend service monitoring and updating the icon.
+- Reference: Trash Capacity: https://github.com/sourceduty/Trash_Capacity
 
-- OS Deviance: Track and report user modifications to the default settings for easier troubleshooting and customization, including privacy measures.
+OS Deviance
+- Purpose: Track and report user modifications to the default settings for easier troubleshooting and customization, including privacy measures.
+- References:
   - OS Developer: https://github.com/sourceduty/OS_Developer
   - Windows Deviance: https://github.com/sourceduty/Windows_Deviance
 
-- Regulated Files: Enforce file management rules within the File Manager and desktop environment, supported by a policy engine and customizable UI.
-  - File Automation: https://github.com/sourceduty/File_Automation
+Regulated Files
+- Purpose: Enforce file management rules within the File Manager and desktop environment.
+- Implementation: Supported by a policy engine and customizable UI.
+- Reference: File Automation: https://github.com/sourceduty/File_Automation
 
-- Sequenced File Folders: Automate new folder creation following a naming convention, allowing user control and customization.
+Sequenced File Folders
+- Purpose: Automate new folder creation following a naming convention, allowing user control and customization.
+- References:
   - Sequenced File Folders: https://github.com/sourceduty/Sequenced_File_Folders
   - Send to New Folder: https://github.com/sourceduty/Send_to_New_Folder
 
-- Battery Level Cursor: Show the battery level of wireless mice in the cursor theme, requiring system support for reading battery levels.
-  - Battery Level Cursor: https://github.com/sourceduty/Battery_Level_Cursor
+Battery Level Cursor
+- Purpose: Show the battery level of wireless mice in the cursor theme.
+- Implementation: Requires system support for reading battery levels.
+- Reference: Battery Level Cursor: https://github.com/sourceduty/Battery_Level_Cursor
 
-Additional suggested features from the provided links:
-- Smart Folder: Automatically organize files based on user-defined rules or patterns.
-  - Smart Folder: https://github.com/sourceduty/Smart_Folder
+Additional Features:
 
-- Mouse History Visualizer: Implement a tool to track and display mouse movement history for enhanced user analysis.
-  - Mouse History Visualizer: https://github.com/sourceduty/Mouse_History_Visualizer
+Smart Folder
+- Purpose: Automatically organize files based on user-defined rules or patterns.
+- Reference: Smart Folder: https://github.com/sourceduty/Smart_Folder
 
-- Keybind Instructions: Integrate a tool for customizing and displaying keyboard shortcuts within the OS.
-  - Keybind Instructions: https://github.com/sourceduty/Keybind_Instructions
+Mouse History Visualizer
+- Purpose: Implement a tool to track and display mouse movement history for enhanced user analysis.
+- Reference: Mouse History Visualizer: https://github.com/sourceduty/Mouse_History_Visualizer
 
-- OS Automation: Develop advanced automation capabilities for routine tasks, improving efficiency.
-  - OS Automation: https://github.com/sourceduty/OS_Automation
+Keybind Instructions
+- Purpose: Integrate a tool for customizing and displaying keyboard shortcuts within the OS
+- Reference: Keybind Instructions: https://github.com/sourceduty/Keybind_Instructions
+
+OS Automation
+- Purpose: Develop advanced automation capabilities for routine tasks, improving efficiency.
+- Reference: OS Automation: https://github.com/sourceduty/OS_Automation
 
 Additional links for further feature integrations and ideas:
 
