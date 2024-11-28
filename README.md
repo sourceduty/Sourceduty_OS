@@ -88,6 +88,8 @@ In financial terms, a moderate-scale operating system development project like Q
 
 Minimizing costs further for an OS development project like Quantive OS can be achieved through several strategic approaches. Utilizing open-source tools and platforms can significantly reduce software licensing fees. Additionally, adopting a lean development approach, where features are developed incrementally based on priority and user feedback, can help in reducing initial investment and focusing on high-impact functionalities. By leveraging remote or freelance talent, the project can also cut down on long-term labor costs and overheads associated with physical office spaces. With these strategies, the lower end of the cost spectrum could potentially be brought down to around $200,000 to $300,000 USD, depending on the efficiency of resource use and management throughout the project lifecycle.
 
+If Linux was funded traditionally, the cost of developing this OS from 1991 to 1995 might have been around $3.5 million. This is a very rough estimate and doesn't take into account the exponential growth in contributions or the varying levels of expertise and time commitment of the developers.
+
 #
 ### Shortbar
 
@@ -165,8 +167,6 @@ Quantitative, Qantive, and Tits differ significantly in tone, meaning, and appro
 The word Quantive, a shortened form of the correctly spelled Quantitative, can inadvertently draw attention to the "tit" pronunciation due to its phonetic and structural characteristics. In Quantitative, the syllables are evenly distributed, with the full word carrying enough complexity to downplay any single sound. However, when reduced to Quantive, the streamlined form sharpens the focus on the central "tive" segment (phonetically /tɪv/). This simplification emphasizes the "t" sounds, making the phonetic sequence closer to "tit," particularly in casual or fast speech.
 
 The humor emerges as the human brain, primed to identify familiar patterns, latches onto the sequence "tit" embedded within the sound of Quantive. The removal of letters from Quantitative, such as the additional "a" and second "t," reduces distractions, allowing the "tive" portion to stand out more prominently. This creates a playful and unintended highlight on the middle segment, which some might perceive as humorous due to its resemblance to "tit," a familiar and cheeky word. In this way, the phonetic emphasis shifts subtly between the long-form Quantitative and the streamlined Quantive, making the latter more likely to evoke this association.
-
-If Linux was funded traditionally, the cost of developing this OS from 1991 to 1995 might have been around $3.5 million. This is a very rough estimate and doesn't take into account the exponential growth in contributions or the varying levels of expertise and time commitment of the developers.
 
 #
 
