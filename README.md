@@ -86,6 +86,8 @@ Estimating the time and budget required for developing an operating system like 
 
 In financial terms, a moderate-scale operating system development project like Quantive OS could cost between $500,000 to $2,000,000 USD for its initial versions. This estimation could fluctuate based on the specifics of the project scope and the intricacies of the features planned. When converting these figures to Canadian dollars, the amount would typically increase according to the current exchange rate, potentially reaching around $2,680,000 CAD for the upper estimate. For more precise financial planning and timeline estimation, a detailed analysis of the project's requirements and resource allocation is crucial. Consulting with experts in software development, especially those with experience in OS development, would provide a clearer and more tailored estimation.
 
+Minimizing costs further for an OS development project like Quantive OS can be achieved through several strategic approaches. Utilizing open-source tools and platforms can significantly reduce software licensing fees. Additionally, adopting a lean development approach, where features are developed incrementally based on priority and user feedback, can help in reducing initial investment and focusing on high-impact functionalities. By leveraging remote or freelance talent, the project can also cut down on long-term labor costs and overheads associated with physical office spaces. With these strategies, the lower end of the cost spectrum could potentially be brought down to around $200,000 to $300,000 USD, depending on the efficiency of resource use and management throughout the project lifecycle.
+
 #
 ### Shortbar
 
