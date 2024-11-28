@@ -172,7 +172,7 @@ The humor emerges as the human brain, primed to identify familiar patterns, latc
 #
 ### Related Links
 
-[Windows Attached](https://github.com/sourceduty/Windows)
+[Windows](https://github.com/sourceduty/Windows)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
