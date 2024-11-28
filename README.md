@@ -86,6 +86,8 @@ Testing and Quality Assurance
 
 Timeline
 
+#
+
 - Preliminary research and planning: 2 weeks
 - Development sprints: 3 months
 - Testing phase: 1 month
