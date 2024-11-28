@@ -8,7 +8,7 @@ Quantive OS is an innovative Linux-based operating system tailored for users see
 
 #
 
-1. Right-Click Format
+Right-Click Format
 
 **Objective**: Integrate a file converter option in the right-click context menu to allow users to easily convert files to different formats.
 **Tasks**:
@@ -16,7 +16,7 @@ Quantive OS is an innovative Linux-based operating system tailored for users see
   2. Implement a file conversion backend supporting multiple formats.
   3. Ensure seamless integration with the desktop environment for user accessibility.
 
-2. Cursor Taskbar
+Cursor Taskbar
 
 **Objective**: Implement a hidden taskbar menu that appears around the cursor when activated, providing quick access to frequently used apps and settings.
 **Tasks**:
@@ -24,7 +24,7 @@ Quantive OS is an innovative Linux-based operating system tailored for users see
   2. Develop the activation mechanism (e.g., specific mouse gesture or keyboard shortcut).
   3. Integrate with the OS's window management system for responsive interaction.
 
-3. Trash Icon Capacity
+Trash Icon Capacity
 
 **Objective**: Display the trash bin's capacity and current usage visually through the icon, enhancing user awareness of storage consumption.
 **Tasks**:
@@ -32,7 +32,7 @@ Quantive OS is an innovative Linux-based operating system tailored for users see
   2. Implement a background service to monitor trash size and update the icon accordingly.
   3. Ensure compatibility with different desktop environments.
 
-4. OS Deviance
+OS Deviance
 
 **Objective**: Measure and report changes made by users to the default OS settings, aiding in troubleshooting and customization.
 **Tasks**:
@@ -40,7 +40,7 @@ Quantive OS is an innovative Linux-based operating system tailored for users see
   2. Create a reporting tool within the settings menu to display changes.
   3. Implement privacy controls to ensure user consent and data protection.
 
-5. Regulated Files
+Regulated Files
 
 **Objective**: Enforce regulation of files within and outside the File Manager, ensuring organized and secure file management.
 **Tasks**:
@@ -48,7 +48,7 @@ Quantive OS is an innovative Linux-based operating system tailored for users see
   2. Integrate the engine with the File Manager and desktop environment.
   3. Provide a user interface for customizing file management policies.
 
-6. Sequenced File Folders
+Sequenced File Folders
 
 **Objective**: Automatically create a new folder when a new folder is named, streamlining the folder creation process.
 **Tasks**:
@@ -56,7 +56,7 @@ Quantive OS is an innovative Linux-based operating system tailored for users see
   2. Implement a naming convention system for automatically named folders.
   3. Ensure user control and customization options for the feature.
 
-7. Battery Level Cursor
+Battery Level Cursor
 
 **Objective**: Indicate the battery level of an optical mouse within the mouse cursor, enhancing user convenience.
 **Tasks**:
