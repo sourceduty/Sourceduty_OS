@@ -6,7 +6,7 @@
 
 Quantive OS is an innovative Linux-based operating system tailored for users seeking enhanced functionality and unique features for a more intuitive and personalized experience. This development plan outlines the steps to implement its distinctive features, ensuring a robust and user-friendly OS.
 
-### Unique Features Implementation
+#
 
 ### 1. Right-Click Format
 
