@@ -80,6 +80,13 @@ This development plan outlines the features to implement, ensuring a robust and 
 These enhancements aim to make Quantive OS more robust, user-friendly, and customizable, catering to advanced user needs.
 
 #
+### Estimated Cost
+
+Estimating the time and budget required for developing an operating system like Quantive OS involves several considerations including the scope of features, team size, and project management approach. The development of Quantive OS entails integrating complex features like a customizable taskbar, automated file management, and system modification tracking, among others. The development process requires a diverse team of system architects, developers, QA testers, and UX/UI designers. The size and composition of the team significantly impact both the timeline and costs, which could range from hundreds of thousands to millions of USD, depending on the project's scale and duration.
+
+In financial terms, a moderate-scale operating system development project like Quantive OS could cost between $500,000 to $2,000,000 USD for its initial versions. This estimation could fluctuate based on the specifics of the project scope and the intricacies of the features planned. When converting these figures to Canadian dollars, the amount would typically increase according to the current exchange rate, potentially reaching around $2,680,000 CAD for the upper estimate. For more precise financial planning and timeline estimation, a detailed analysis of the project's requirements and resource allocation is crucial. Consulting with experts in software development, especially those with experience in OS development, would provide a clearer and more tailored estimation.
+
+#
 ### Shortbar
 
 ![Shortbar Program](https://github.com/user-attachments/assets/287b6d6a-294c-4cc8-90b9-005e411fc023)
