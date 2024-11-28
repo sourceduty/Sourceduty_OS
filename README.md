@@ -51,25 +51,23 @@ This development plan outlines the features to implement, ensuring a robust and 
 - Implementation: Requires system support for reading battery levels.
 - Reference: [Battery Level Cursor](https://github.com/sourceduty/Battery_Level_Cursor)
 
-### Additional Features:
-
-#### Smart Folder
+### Smart Folder
 - Purpose: Automatically organize files based on user-defined rules or patterns.
 - Reference: [Smart Folder](https://github.com/sourceduty/Smart_Folder)
 
-#### Mouse History Visualizer
+### Mouse History Visualizer
 - Purpose: Implement a tool to track and display mouse movement history for enhanced user analysis.
 - Reference: [Mouse History Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
 
-#### Keybind Instructions
+### Keybind Instructions
 - Purpose: Integrate a tool for customizing and displaying keyboard shortcuts within the OS
 - Reference: [Keybind Instructions](https://github.com/sourceduty/Keybind_Instructions)
 
-#### OS Automation
+### OS Automation
 - Purpose: Develop advanced automation capabilities for routine tasks, improving efficiency.
 - Reference: [OS Automation](https://github.com/sourceduty/OS_Automation)
 
-#### Additional links for further feature integrations and ideas:
+### Additional links for further feature integrations and ideas:
 
 - [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
 - [System Structure](https://github.com/sourceduty/System_Structure)
