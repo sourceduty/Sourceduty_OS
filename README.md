@@ -170,49 +170,7 @@ The humor emerges as the human brain, primed to identify familiar patterns, latc
 #
 ### Related Links
 
-[Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
-<br>
-[System Structure](https://github.com/sourceduty/System_Structure)
-<br>
-[World Systems](https://github.com/sourceduty/World_Systems)
-<br>
-[Mouse Pointer Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
-<br>
-[Mouse History Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
-<br>
-[Right Click Converter](https://github.com/sourceduty/Right-Click_Converter)
-<br>
-[Smart Folder](https://github.com/sourceduty/Smart_Folder)
-<br>
-[Huge Cursor](https://github.com/sourceduty/Huge_Cursor)
-<br>
-[Send to New Folder](https://github.com/sourceduty/Send_to_New_Folder)
-<br>
-[Battery Level Cursor](https://github.com/sourceduty/Battery_Level_Cursor)
-<br>
-[Sequenced File Folders](https://github.com/sourceduty/Sequenced_File_Folders)
-<br>
-[Trash Capacity](https://github.com/sourceduty/Trash_Capacity)
-<br>
-[Keybind Instructions](https://github.com/sourceduty/Keybind_Instructions)
-<br>
-[OS Developer](https://github.com/sourceduty/OS_Developer)
-<br>
-[Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
-<br>
-[Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
-<br>
-[Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
-<br>
-[Shortbar](https://github.com/sourceduty/Shortbar)
-<br>
-[OS Automation](https://github.com/sourceduty/OS_Automation)
-<br>
-[Smart Folder](https://github.com/sourceduty/Smart_Folder)
-<br>
-[File Automation](https://github.com/sourceduty/File_Automation)
-<br>
-[Windows Attached](https://github.com/sourceduty/Windows_Attached)
+[Windows Attached](https://github.com/sourceduty/Windows)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
