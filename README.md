@@ -8,7 +8,7 @@ Quantive OS is an innovative Linux-based operating system tailored for users see
 
 #
 
-Quantive OS is a Linux-based platform designed for enhanced user experience through unique, intuitive features. Here’s a condensed development plan incorporating additional functionalities:
+Here’s a condensed development plan incorporating additional functionalities:
 
 - Right-Click Format: Integrate a "Convert to..." option in the file context menu to simplify file conversions. Implement a backend to support various formats and ensure seamless integration with the desktop environment.
   - Right Click Converter: https://github.com/sourceduty/Right-Click_Converter
