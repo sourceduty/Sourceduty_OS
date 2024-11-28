@@ -9,71 +9,71 @@ Quantive OS is an innovative Linux-based operating system tailored for users see
 #
 ### Functionalities
 
-Right-Click Format
+### Right-Click Format
 - Purpose: Integrate a "Convert to..." option in the file context menu to simplify file conversions.
 - Implementation: Develop a backend to support various formats and ensure seamless integration with the desktop environment.
-- Reference: Right Click Converter: https://github.com/sourceduty/Right-Click_Converter
+- Reference: [Right Click Converter](https://github.com/sourceduty/Right-Click_Converter)
 
-Cursor Taskbar
+### Cursor Taskbar
 - Purpose: Develop a hidden taskbar that appears around the cursor for quick access to apps and settings, customizable and responsive.
 - References:
-  - Mouse Pointer Circle: https://github.com/sourceduty/Mouse_Pointer_Circle
-  - Shortbar: https://github.com/sourceduty/Shortbar
+  - [Mouse Pointer Circle](https://github.com/sourceduty/Mouse_Pointer_Circle)
+  - [Shortbar](https://github.com/sourceduty/Shortbar)
 
-Trash Icon Capacity
+### Trash Icon Capacity
 - Purpose: Modify the trash icon to reflect its current fill level dynamically.
 - Implementation: Implement a backend service monitoring and updating the icon.
-- Reference: Trash Capacity: https://github.com/sourceduty/Trash_Capacity
+- Reference: [Trash Capacity](https://github.com/sourceduty/Trash_Capacity)
 
-OS Deviance
+### OS Deviance
 - Purpose: Track and report user modifications to the default settings for easier troubleshooting and customization, including privacy measures.
 - References:
-  - OS Developer: https://github.com/sourceduty/OS_Developer
-  - Windows Deviance: https://github.com/sourceduty/Windows_Deviance
+  - [OS Developer](https://github.com/sourceduty/OS_Developer)
+  - [Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
 
-Regulated Files
+### Regulated Files
 - Purpose: Enforce file management rules within the File Manager and desktop environment.
 - Implementation: Supported by a policy engine and customizable UI.
-- Reference: File Automation: https://github.com/sourceduty/File_Automation
+- Reference: [File Automation](https://github.com/sourceduty/File_Automation)
 
-Sequenced File Folders
+### Sequenced File Folders
 - Purpose: Automate new folder creation following a naming convention, allowing user control and customization.
 - References:
-  - Sequenced File Folders: https://github.com/sourceduty/Sequenced_File_Folders
-  - Send to New Folder: https://github.com/sourceduty/Send_to_New_Folder
+  - [Sequenced File Folders](https://github.com/sourceduty/Sequenced_File_Folders)
+  - [Send to New Folder](https://github.com/sourceduty/Send_to_New_Folder)
 
-Battery Level Cursor
+### Battery Level Cursor
 - Purpose: Show the battery level of wireless mice in the cursor theme.
 - Implementation: Requires system support for reading battery levels.
-- Reference: Battery Level Cursor: https://github.com/sourceduty/Battery_Level_Cursor
+- Reference: [Battery Level Cursor](https://github.com/sourceduty/Battery_Level_Cursor)
 
-Additional Features:
+### Additional Features:
 
-Smart Folder
+#### Smart Folder
 - Purpose: Automatically organize files based on user-defined rules or patterns.
-- Reference: Smart Folder: https://github.com/sourceduty/Smart_Folder
+- Reference: [Smart Folder](https://github.com/sourceduty/Smart_Folder)
 
-Mouse History Visualizer
+#### Mouse History Visualizer
 - Purpose: Implement a tool to track and display mouse movement history for enhanced user analysis.
-- Reference: Mouse History Visualizer: https://github.com/sourceduty/Mouse_History_Visualizer
+- Reference: [Mouse History Visualizer](https://github.com/sourceduty/Mouse_History_Visualizer)
 
-Keybind Instructions
+#### Keybind Instructions
 - Purpose: Integrate a tool for customizing and displaying keyboard shortcuts within the OS
-- Reference: Keybind Instructions: https://github.com/sourceduty/Keybind_Instructions
+- Reference: [Keybind Instructions](https://github.com/sourceduty/Keybind_Instructions)
 
-OS Automation
+#### OS Automation
 - Purpose: Develop advanced automation capabilities for routine tasks, improving efficiency.
-- Reference: OS Automation: https://github.com/sourceduty/OS_Automation
+- Reference: [OS Automation](https://github.com/sourceduty/OS_Automation)
 
-Additional links for further feature integrations and ideas:
+#### Additional links for further feature integrations and ideas:
 
-- Paint Challenge: https://github.com/sourceduty/Paint_Challenge
-- System Structure: https://github.com/sourceduty/System_Structure
-- World Systems: https://github.com/sourceduty/World_Systems
-- Huge Cursor: https://github.com/sourceduty/Huge_Cursor
-- Industry Notepad: https://github.com/sourceduty/Industry_Notepad
-- Sourceduty Notepad: https://github.com/sourceduty/Sourceduty_Notepad
-- Windows Attached: https://github.com/sourceduty/Windows_Attached
+- [Paint Challenge](https://github.com/sourceduty/Paint_Challenge)
+- [System Structure](https://github.com/sourceduty/System_Structure)
+- [World Systems](https://github.com/sourceduty/World_Systems)
+- [Huge Cursor](https://github.com/sourceduty/Huge_Cursor)
+- [Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
+- [Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
+- [Windows Attached](https://github.com/sourceduty/Windows_Attached)
 
 These enhancements aim to make Quantive OS more robust, user-friendly, and customizable, catering to advanced user needs.
 
