@@ -84,15 +84,6 @@ Testing and Quality Assurance
 - Integration testing will follow to ensure seamless interaction between the new features and the existing OS components.
 - User acceptance testing (UAT) will be organized with a focus group to gather feedback and make necessary adjustments.
 
-Timeline
-
-#
-
-- Preliminary research and planning: 2 weeks
-- Development sprints: 3 months
-- Testing phase: 1 month
-- Beta release and feedback collection: 1 month
-- Final adjustments and official release: 2 weeks
 
 The "Quantive OS" project aims to redefine user experience with unique and intuitive features. By following this development plan, we anticipate delivering a Linux-based OS that not only meets but exceeds user expectations in terms of functionality and ease of use.
 
